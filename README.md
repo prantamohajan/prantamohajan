@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=3399FF&lines=Welcome+to+My+GitHub+Profile!;Data+Science+Enthusiast;Aspiring+ML+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=3399FF&lines=Welcome+to+My+GitHub+Profile!;Data+Science+Enthusiast;Aspiring+SWE" />
 </h1>
 
 # 👋 About Me
