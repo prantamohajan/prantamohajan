@@ -85,7 +85,7 @@ I learn by building. Every topic below is something I am studying and turning in
 
 **Tools**
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,arduino&theme=dark" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="48" alt="Jupyter" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,processing,linux,arduino&theme=dark" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="48" alt="Jupyter" /> </p>
 
 ---
 
