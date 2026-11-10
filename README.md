@@ -50,26 +50,8 @@ I learn by building. Every topic below is something I am studying and turning in
   <img src="https://img.shields.io/badge/RAG-In%20Progress-brightgreen?style=for-the-badge" />
 </p>
 
-### 🗺️ My Learning Roadmap
 
-```mermaid
-flowchart LR
-    A[Python & DSA] --> B[Machine Learning]
-    B --> C[Deep Learning]
-    C --> D[LLMs]
-    D --> E[RAG]
-    E --> F[AI Agents]
-    F --> G[Agentic AI Systems]
-    style A fill:#0A66C2,color:#fff
-    style B fill:#0A66C2,color:#fff
-    style C fill:#0A66C2,color:#fff
-    style D fill:#7B2FF7,color:#fff
-    style E fill:#7B2FF7,color:#fff
-    style F fill:#F7971E,color:#000
-    style G fill:#F7971E,color:#000
-```
 
----
 
 ## 🛠 Tech Stack
 
@@ -103,9 +85,7 @@ flowchart LR
 
 **Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,arduino&theme=dark" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,arduino&theme=dark" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" height="48" alt="Jupyter" /> </p>
 
 ---
 
